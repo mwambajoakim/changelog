@@ -11,12 +11,16 @@
 * {
 	background-color: light-dark(var(--light-bg), var(--dark-bg));
   	color: light-dark(var(--light-color), var(--dark-color));
-	}
+}
+
+.content {
+	outline: 2px solid white;
+	border-radius: 3px;
+	padding: 20px;
+}
 
 .head {
 	text-align: center;
-	outline: 2px solid white;
-	border-radius: 3px;
 }
 
 .change-container {
