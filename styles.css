@@ -1,4 +1,10 @@
 * {
 	background-color: black;
 	color: white;
+	}
+
+.head {
+	text-align: center;
+	outline: 2px solid white;
+	border-radius: 3px;;
 }
